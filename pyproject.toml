@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pressrelease-distribution-engine"
+version = "1.0.0"
+authors = [
+  { name = "PressRelease.fyi", email = "info@pressrelease.fyi" },
+]
+description = "PressRelease Distribution Engine is a software toolkit for preparing, organizing, and managing press release distribution workflows."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Office/Business",
+]
+keywords = [
+    "pressrelease-distribution-engine",
+    "press-release-distribution",
+    "media-targeting",
+    "pr-workflow",
+    "newswire-distribution",
+    "publication-tracking",
+    "ai-visibility",
+    "pressrelease-fyi",
+]
+
+[project.urls]
+Homepage = "https://pressrelease.fyi"
+GitHub = "https://github.com/PressRelease-fyi/pressrelease-distribution-engine"
+Documentation = "https://pressrelease-distribution-engine.readthedocs.io"
+PyPI = "https://pypi.org/project/pressrelease-distribution-engine"
+
+[project.scripts]
+pr-distribute = "pressrelease_engine:main"

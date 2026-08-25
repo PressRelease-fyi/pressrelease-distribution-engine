@@ -1,0 +1,21 @@
+site_name: PressRelease Distribution Engine
+site_url: https://pressrelease-distribution-engine.readthedocs.io
+site_description: Software toolkit for preparing, organizing, and managing press release distribution workflows — media targeting, publication tracking, and AI visibility.
+site_author: PressRelease.fyi
+
+repo_name: PressRelease-fyi/pressrelease-distribution-engine
+repo_url: https://github.com/PressRelease-fyi/pressrelease-distribution-engine
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light-blue
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

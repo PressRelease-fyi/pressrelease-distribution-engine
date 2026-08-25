@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "PressRelease Distribution Engine",
+  "description": "A software toolkit for preparing, organizing, and managing press release distribution workflows.",
+  "url": "https://pressrelease.fyi",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "PressRelease.fyi",
+    "url": "https://pressrelease.fyi",
+    "sameAs": [
+      "https://pressrelease.fyi",
+      "https://github.com/PressRelease-fyi",
+      "https://npmjs.com/package/@pressrelease-fyi/pressrelease-distribution-engine",
+      "https://pypi.org/project/pressrelease-distribution-engine",
+      "https://huggingface.co/datasets/pressrelease-fyi/distribution-benchmarks",
+      "https://www.kaggle.com/datasets/pressreleasefyi/distribution-benchmarks",
+      "https://pressrelease-fyi.github.io/pressrelease-distribution-engine/",
+      "https://www.quora.com/profile/Press-Release-Fyi",
+      "https://www.slideshare.net/slideshow/pressrelease-fyi-global-press-release-distribution-ai-visibility-platform/289410790",
+      "https://www.pinterest.com/pressreleasefyi/",
+      "https://www.reviewfoxy.com/reviews/pressrelease.fyi",
+      "https://medium.com/@pressrelease_fyi"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/PressRelease-fyi/pressrelease-distribution-engine",
+  "keywords": [
+    "PressRelease Distribution Engine",
+    "Press Release Distribution",
+    "Media Targeting",
+    "PR Workflow",
+    "Newswire Distribution",
+    "Publication Tracking",
+    "AI Visibility",
+    "PressRelease.fyi"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "PressRelease Distribution Engine",
+  "description": "PressRelease Distribution Engine is a software toolkit for preparing, organizing, and managing press release distribution workflows. Helps businesses, agencies, and publishers streamline release creation, media targeting, distribution planning, and publication tracking. Built by PressRelease.fyi.",
+  "creators": [
+    {
+      "name": "PressRelease.fyi"
+    }
+  ],
+  "keywords": [
+    "PressRelease Distribution Engine",
+    "Press Release Distribution",
+    "Media Targeting",
+    "PR Workflow",
+    "Newswire Distribution",
+    "Publication Tracking",
+    "AI Visibility",
+    "PressRelease.fyi"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/PressRelease-fyi/pressrelease-distribution-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pressrelease.fyi",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@pressrelease-fyi/pressrelease-distribution-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/pressrelease-distribution-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/pressrelease-fyi/distribution-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/pressreleasefyi/distribution-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Press-Release-Fyi",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/pressrelease-fyi-global-press-release-distribution-ai-visibility-platform/289410790",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/pressreleasefyi/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.reviewfoxy.com/reviews/pressrelease.fyi",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@pressrelease_fyi",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

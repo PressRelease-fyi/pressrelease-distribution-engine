@@ -1,0 +1,37 @@
+{
+  "name": "@pressrelease-fyi/pressrelease-distribution-engine",
+  "version": "1.0.0",
+  "description": "PressRelease Distribution Engine is a software toolkit for preparing, organizing, and managing press release distribution workflows.",
+  "main": "index.js",
+  "bin": {
+    "pr-distribute": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "pressrelease-distribution-engine",
+    "press-release-distribution",
+    "media-targeting",
+    "pr-workflow",
+    "newswire-distribution",
+    "publication-tracking",
+    "ai-visibility",
+    "pressrelease-fyi",
+    "press-release",
+    "media-relations",
+    "pr-management",
+    "syndication"
+  ],
+  "author": "PressRelease.fyi",
+  "license": "MIT",
+  "homepage": "https://pressrelease.fyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PressRelease-fyi/pressrelease-distribution-engine"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
