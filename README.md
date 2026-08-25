@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@pressrelease-fyi/pressrelease-distribution-engine)](https://npmjs.com/package/@pressrelease-fyi/pressrelease-distribution-engine)
 [![PyPI](https://img.shields.io/pypi/v/pressrelease-distribution-engine)](https://pypi.org/project/pressrelease-distribution-engine)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22092997.svg)](https://doi.org/10.5281/zenodo.22092997)
 
 PressRelease Distribution Engine is a software toolkit for preparing, organizing, and managing press release distribution workflows. It helps businesses, agencies, and publishers streamline release creation, media targeting, distribution planning, and publication tracking. Built by [PressRelease.fyi](https://pressrelease.fyi).
 
@@ -105,7 +105,7 @@ PressRelease Distribution Engine · Press Release Distribution · Media Targetin
 | PyPI | https://pypi.org/project/pressrelease-distribution-engine |
 | Hugging Face | https://huggingface.co/datasets/pressrelease-fyi/distribution-benchmarks |
 | Kaggle | https://www.kaggle.com/datasets/pressreleasefyi/distribution-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/22092997 |
 | Docs | https://pressrelease-distribution-engine.readthedocs.io |
 | Quora | https://www.quora.com/profile/Press-Release-Fyi |
 | SlideShare | https://www.slideshare.net/slideshow/pressrelease-fyi-global-press-release-distribution-ai-visibility-platform/289410790 |
