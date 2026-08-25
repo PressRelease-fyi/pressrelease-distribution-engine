@@ -1,0 +1,21 @@
+id,release_title,channel,release_quality_score,media_match_score,distribution_reach_score,publication_rate_score,syndication_score,ai_visibility_score,overall_distribution_index,priority_action,newswire_score,media_outlets_score,online_pr_score,ai_platforms_score,industry,notes
+1,Product Launch Announcement,newswire,90,84,88,80,92,84,86,Publication Rate,90,84,88,84,Technology,Major product launch distribution
+2,Quarterly Earnings Report,media-outlets,88,86,84,82,88,80,85,AI Visibility,88,86,84,80,Finance,Financial media targeting
+3,Partnership Announcement,online-pr,86,82,88,80,86,84,84,Publication Rate,86,82,88,84,B2B,Strategic partnership release
+4,Award Recognition,newswire,84,80,84,82,88,82,83,Media Match,84,80,84,82,General,Industry award press release
+5,Leadership Appointment,media-outlets,88,84,82,80,86,82,84,Publication Rate,88,84,82,82,Corporate,C-suite appointment release
+6,Research Publication,industry-press,86,88,84,78,84,82,84,Publication Rate,86,88,84,82,Research,Academic research distribution
+7,Event Announcement,regional-press,82,80,84,80,82,78,81,AI Visibility,82,80,84,78,Events,Regional event press release
+8,Product Update,newswire,88,82,86,80,90,84,85,Publication Rate,88,82,86,84,Technology,Software update announcement
+9,CSR Initiative,online-pr,84,80,82,78,84,82,82,Publication Rate,84,80,82,82,Nonprofit,Corporate social responsibility
+10,Funding Announcement,newswire,92,86,90,82,92,86,88,Publication Rate,92,86,90,86,Startup,Series funding press release
+11,Market Research Report,industry-press,86,88,84,80,84,82,84,Publication Rate,86,88,84,82,Research,Industry research distribution
+12,Brand Rebrand,newswire,88,84,86,80,88,84,85,Publication Rate,88,84,86,84,Marketing,Brand identity announcement
+13,Crisis Response,media-outlets,84,82,82,86,80,80,82,Syndication,84,82,82,80,Corporate,Reactive crisis PR
+14,Acquisition Announcement,newswire,90,86,88,82,90,84,87,Publication Rate,90,86,88,84,Finance,M&A press release
+15,Product Recall,media-outlets,86,84,84,88,80,78,83,AI Visibility,86,84,84,78,Manufacturing,Recall announcement distribution
+16,Industry Report,industry-press,84,88,82,78,84,82,83,Publication Rate,84,88,82,82,Research,Sector analysis release
+17,Technology Partnership,online-pr,88,84,86,80,86,84,85,Publication Rate,88,84,86,84,Technology,Tech integration announcement
+18,Community Initiative,regional-press,80,80,82,78,80,78,80,Publication Rate,80,80,82,78,Nonprofit,Local community press release
+19,AI Product Launch,ai-platforms,88,84,88,80,88,90,86,Publication Rate,88,84,88,90,Technology,AI-first distribution strategy
+20,Annual Report,media-outlets,86,84,84,82,86,80,84,AI Visibility,86,84,84,80,Corporate,Annual company report release
